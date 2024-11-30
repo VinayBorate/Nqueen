@@ -3,9 +3,8 @@
 ## **Nqueen Problem Visualizer **  
 
 1. **index.html**  
-    <img src="NqueenImages/Home.png">
-
+    <img src="NqueenImages/index.png">
 2. **home.html**
-     <img src="NqueenImages/index.png">
+     <img src="NqueenImages/Home.png">
    
 ---
